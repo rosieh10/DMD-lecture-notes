@@ -1,4 +1,18 @@
-Why are ‘visual metaphors’ so important for Digital Media Designers?
-Describe two visual metaphors, which are commonly used to indicate spatial organisation e.g. directionality, proximity, orientation.
-Explain what is meant by ‘interface metaphor’ and why it’s significant.
-Include a screen-shot of your Device Location programming workshop exercise. Describe one aspect of what you found interesting or surprising about what you programmed (refer to specific line-numbers where relevant).
+# Week 17 - Visual Metaphors
+
+**Why are ‘visual metaphors’ so important for Digital Media Designers?**
+Because, they communicate a product's benefit by relating it to something different but with similar quality. Essesnitally, they are essesntial in order to engage the target audience.
+
+**Describe two visual metaphors, which are commonly used to indicate spatial organisation e.g. directionality, proximity, orientation.**
+1. Organising metaphor: a figurative comparison (that is, a metaphor, simile, or analogy) used to define the key aspects of an organization and/or explain its methods of operation.
+2. Visual Analogy: similarity in some respect between things that are otherwise dissimilar strictly using visual forms. 
+  - Creating effective visual analogies can be approached in three steps:
+  1. Identify similar shapes contained in unrelated objects or images (object A and object B).
+  2. Create a single shape (object C) from objects A and B.
+  3. Verify that the viewer can clearly identify both objects in the visual analogy.
+
+**Explain what is meant by ‘interface metaphor’ and why it’s significant.**
+- Using the concept of a 2D picture as a way of representing related functions e.g: the graphical User Interface (GUI). An example is the Propellerhead ReBirth RB-338 sequencer software.
+- It is significant, as it gives the user instantaneous knowledge about how to interact with the User Interface.
+
+**Include a screen-shot of your Device Location programming workshop exercise. Describe one aspect of what you found interesting or surprising about what you programmed (refer to specific line-numbers where relevant).**
